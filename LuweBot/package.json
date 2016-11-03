@@ -1,0 +1,13 @@
+{
+	"name" : "Luluwebmaster-LuweBot",
+	"version" : "1.0.0",
+	"author" : "Luluwebmaster <contact@luluwebmaster.fr>",
+	"description" : "Luluwebmaster - LuweBot.",
+	"dependencies" : {
+		"express" : "~4.14.0",
+		"mysql" : "~2.11.1",
+		"request" : "2.74.0",
+		"cheerio" : "0.22.0",
+		"content-type" : "1.0.2"
+	}
+}
